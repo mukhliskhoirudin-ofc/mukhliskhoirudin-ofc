@@ -15,7 +15,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" title="HTML5" alt="HTML5" width="30" height="40"/></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.simpleicons.org/css3/1572B6" title="CSS3" alt="CSS3" width="30" height="40"/></a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" title="Tailwind CSS" alt="Tailwind CSS" width="30" height="40"/></a>&nbsp;
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.simpleicons.org/bootstrap/563D7C" title="Bootstrap" alt="Bootstrap" width="30" height="40"/></a>&nbsp;
   <!-- Backend Technologies -->
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.simpleicons.org/php/777BB4" title="PHP" alt="PHP" width="30" height="40"/></a>&nbsp;
   <a href="https://laravel.com/" target="_blank"><img src="https://cdn.simpleicons.org/laravel/FF2D20" title="Laravel" alt="Laravel" width="30" height="40"/></a>&nbsp;
