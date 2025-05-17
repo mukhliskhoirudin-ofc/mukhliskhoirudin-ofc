@@ -23,10 +23,10 @@
   <a href="https://laragon.org/" target="_blank"><img src="https://cdn.simpleicons.org/laragon/0E83CD" title="Laragon" alt="Laragon" width="30" height="40"/></a>&nbsp;
   <a href="https://www.apachefriends.org/index.html" target="_blank"><img src="https://cdn.simpleicons.org/xampp/FB7A24" title="XAMPP" alt="XAMPP" width="30" height="40"/></a>&nbsp;
   <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1" title="MySQL" alt="MySQL" width="30" height="40"/></a>&nbsp;
-  <a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" title="phpMyAdmin" alt="phpMyAdmin" width="30" height="40"/></a>&nbsp;
+  <!-- <a href="https://www.phpmyadmin.net/" target="_blank"><img src="https://cdn.simpleicons.org/phpmyadmin/6C78AF" title="phpMyAdmin" alt="phpMyAdmin" width="30" height="40"/></a>&nbsp; -->
   <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" title="Git" alt="Git" width="30" height="40"/></a>&nbsp;
-  <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/181717" title="GitHub" alt="GitHub" width="30" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/github/FFFFFF" title="GitHub" alt="GitHub" width="30" height="40"/></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
