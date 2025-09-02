@@ -13,12 +13,14 @@
 <p align="left">
   <!-- Frontend Technologies -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.simpleicons.org/html5/E34F26" title="HTML5" alt="HTML5" width="30" height="40"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.simpleicons.org/css3/1572B6" title="CSS3" alt="CSS3" width="30" height="40"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="30" height="40"/>
+  </a>&nbsp;
   <a href="https://tailwindcss.com/" target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" title="Tailwind CSS" alt="Tailwind CSS" width="30" height="40"/></a>&nbsp;
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.simpleicons.org/bootstrap/563D7C" title="Bootstrap" alt="Bootstrap" width="30" height="40"/></a>&nbsp;
   <!-- Backend Technologies -->
   <a href="https://www.php.net/" target="_blank"><img src="https://cdn.simpleicons.org/php/777BB4" title="PHP" alt="PHP" width="30" height="40"/></a>&nbsp;
   <a href="https://laravel.com/" target="_blank"><img src="https://cdn.simpleicons.org/laravel/FF2D20" title="Laravel" alt="Laravel" width="30" height="40"/></a>&nbsp;
+  <a href="https://jquery.com/" target="_blank"><img src="https://cdn.simpleicons.org/jquery/0769B1" title="jQuery" alt="jQuery" width="30" height="40"/></a>&nbsp;
   <!-- Development Environment -->
   <a href="https://laragon.org/" target="_blank"><img src="https://cdn.simpleicons.org/laragon/0E83CD" title="Laragon" alt="Laragon" width="30" height="40"/></a>&nbsp;
   <a href="https://www.apachefriends.org/index.html" target="_blank"><img src="https://cdn.simpleicons.org/xampp/FB7A24" title="XAMPP" alt="XAMPP" width="30" height="40"/></a>&nbsp;
